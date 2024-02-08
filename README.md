@@ -34,3 +34,25 @@ Make sure you have Python installed on your machine. You can download it from [p
    ```sh
    git clone https://github.com/your-username/pong-game.git
 
+###How to Play
+
+The objective of the game is to score points by hitting the ball past your opponent's paddle. The player with the highest score wins.
+
+###Controls
+
+Right Paddle: Up arrow key (Up), Down arrow key (Down)
+Left Paddle: W (Up), S (Down)
+
+###Game Rules
+
+The ball bounces off the top and bottom walls.
+The ball bounces off paddles.
+If the ball passes a paddle, the opposing player scores a point.
+The game continues until you decide to exit.
+
+
+###Fork the Project
+Create your Feature Branch (git checkout -b feature/AmazingFeature)
+Commit your Changes (git commit -m 'Add some AmazingFeature')
+Push to the Branch (git push origin feature/AmazingFeature)
+Open a Pull Request
